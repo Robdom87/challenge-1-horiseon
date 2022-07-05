@@ -1,6 +1,10 @@
 # challenge-1-horiseon
 
+<<<<<<< HEAD
   DESCRIPTION
+=======
+ DESCRIPTION
+>>>>>>> 24007c1074d9cf0c94379aee792ff05d457fba82
   -----------
   
 The Horiseon landed page exists to provide a quick overview of the business focuses and general benefits of working with the company. The site is divided into four sections: Header, Content, Benefits, and Footer.
@@ -18,4 +22,8 @@ Semantic elements were used to follow the accessiblity standards. Mock up of the
   
   LINK TO SITE: https://robdom87.github.io/challenge-1-horiseon/
   
+<<<<<<< HEAD
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/94883733/177424572-6e24da74-f760-4deb-a358-57b79c0563f0.png)
+=======
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/94883733/177424572-6e24da74-f760-4deb-a358-57b79c0563f0.png)
+>>>>>>> 24007c1074d9cf0c94379aee792ff05d457fba82
